@@ -1,6 +1,6 @@
 # ROC
 Representative operation counts (ROC)
-is an interesting methodology in assessing algorithm performance. Unlike CPU time that depends strongly on many factors such as the computing environment, programming language, 
+is an interesting methodology in assessing algorithm performance. Unlike CPU time, which depends strongly upon many factors such as the computing environment, programming language, 
 conmiler, programming skill and so on, which make CPU time a highly noisy measure of the algorithm performance, ROC depends on the most important operations done by the algorithm, 
 which can be looked as the pure perfromance measure.
 
