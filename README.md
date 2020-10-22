@@ -5,6 +5,6 @@ conmiler, programming skill and so on, which make CPU time a highly noisy measur
 which can be looked as the pure perfromance measure.
 
 This repositiry is under progress and will include codes in C, MATLAB, and other suitable languages that enable using ROC easily. We are trying to handle some issues of ROC 
-to improve it somehow. 
+and improve it. 
 
 # Relevant files will be added soon.
